@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Afzal khan
 
 <!--
 **afzalkhan-ai-debug/afzalkhan-ai-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
